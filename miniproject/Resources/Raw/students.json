@@ -1,0 +1,83 @@
+[
+  {
+    "student_id": "65011212082",
+    "email": "d",
+    "password": "d",
+    "first_name": "อ้ายคนจน",
+    "last_name": "ทนได้บ่",
+    "faculty": "วิทยาการสารสนเทศ",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "year": 3,
+    "gpa": 4.00,
+    "courses_enrolled": [
+      {
+        "course_id": "1204301 ",
+        "course_name": "System Analysis and Design",
+        "year": 2024,
+        "term": 1,
+        "credits": 3
+      },
+      {
+        "course_id": "1204302",
+        "course_name": "Algorithm Analysis and Design",
+        "year": 2024,
+        "term": 1,
+        "credits": 3
+      },
+      {
+        "course_id": "1204303",
+        "course_name": "Mobile Application Development",
+        "year": 2024,
+        "term": 1,
+        "credits": 3
+      },
+      {
+        "course_id": "1204304",
+        "course_name": "Computer Science Seminar",
+        "year": 2024,
+        "term": 1,
+        "credits": 3
+      },
+      {
+        "course_id": "1204305",
+        "course_name": "Computer Graphics",
+        "year": 2024,
+        "term": 2,
+        "credits": 3
+      },
+      {
+        "course_id": "1204306",
+        "course_name": "Software Engineering",
+        "year": 2024,
+        "term": 2,
+        "credits": 3
+      },
+      {
+        "course_id": "1204307",
+        "course_name": "Artifical Intelligence",
+        "year": 2024,
+        "term": 2,
+        "credits": 3
+      },
+      {
+        "course_id": "1204308",
+        "course_name": "Theory of Computation",
+        "year": 2024,
+        "term": 2,
+        "credits": 3
+      }
+    ]
+  },
+  {
+    "student_id": "65011212182",
+    "email": "t",
+    "password": "t",
+    "first_name": "สวัสดี",
+    "last_name": "กรุงไทย",
+    "faculty": "วิทยาการสารสนเทศ",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "year": 3,
+    "gpa": 4.00,
+    "courses_enrolled": []
+  }
+]
